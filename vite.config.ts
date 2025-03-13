@@ -10,7 +10,7 @@ export default defineConfig({
     port: 3000,
     host: true, // Allows external access
     strictPort: true, // Ensures the port is not changed
-    origin: "https://monumental-twilight-a7934e.netlify.app", // Allows requests from this host
+    origin: "https://monumental-twilight-a7934e.netlify.app/", // Allows requests from this host
   },
   resolve: {
     alias: {
