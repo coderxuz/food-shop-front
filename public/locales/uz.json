@@ -1,3 +1,4 @@
 {
-    "invalid_credentials":"Noto'g'ri hisob ma'lumotlari"
+  "invalid_credentials": "Noto'g'ri hisob ma'lumotlari",
+  "enter_bot": "telegram botiga kiring va 5 daqiqalik kodingizni oling"
 }

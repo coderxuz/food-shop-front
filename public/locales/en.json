@@ -1,3 +1,4 @@
 {
-    "invalid_credentials":"Invalid credentials"
+  "invalid_credentials": "Invalid credentials",
+  "enter_bot": "Enter the telegram bot and get your 5-minute code."
 }
